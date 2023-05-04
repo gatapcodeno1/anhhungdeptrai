@@ -1,0 +1,193 @@
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\BTL_WEB.dll.config
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\BTL_WEB.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\BTL_WEB.pdb
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\csc.exe
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\csc.exe.config
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\csc.rsp
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\csi.exe
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\csi.exe.config
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\csi.rsp
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.AppContext.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Console.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Net.Http.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\vbc.exe
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\vbc.exe.config
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\vbc.rsp
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.csproj.CoreCompileInputs.cache
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.dll
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.pdb
+C:\Users\Tuan\source\repos\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.csproj.AssemblyReference.cache
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\BTL_WEB.dll.config
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\BTL_WEB.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\BTL_WEB.pdb
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csc.exe
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csc.exe.config
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csc.rsp
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csi.exe
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csi.exe.config
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csi.rsp
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.AppContext.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Collections.Immutable.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Console.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Globalization.Calendars.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.Compression.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.FileSystem.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Net.Http.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Net.Sockets.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Reflection.Metadata.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.ValueTuple.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.XPath.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\vbc.exe
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\vbc.exe.config
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\vbc.rsp
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\VBCSCompiler.exe
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\VBCSCompiler.exe.config
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.csproj.AssemblyReference.cache
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.csproj.CoreCompileInputs.cache
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.csproj.CopyComplete
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.dll
+E:\web\BTL_WEB\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.pdb
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\BTL_WEB.dll.config
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\BTL_WEB.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\BTL_WEB.pdb
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csc.exe
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csc.exe.config
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csc.rsp
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csi.exe
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csi.exe.config
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\csi.rsp
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.Managed.Core.targets
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.AppContext.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Collections.Immutable.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Console.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Globalization.Calendars.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.Compression.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.FileSystem.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Net.Http.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Net.Sockets.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Reflection.Metadata.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.ValueTuple.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.XmlDocument.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.XPath.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\vbc.exe
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\vbc.exe.config
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\vbc.rsp
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\VBCSCompiler.exe
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\roslyn\VBCSCompiler.exe.config
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.Web.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.Shared.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportSource.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.CrystalReports.Engine.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\stdole.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.csproj.AssemblyReference.cache
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.csproj.CoreCompileInputs.cache
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.csproj.CopyComplete
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.dll
+F:\dowload o c\BTL_WEB\BTL_WEB\BTL_WEB\obj\Debug\BTL_WEB.pdb
